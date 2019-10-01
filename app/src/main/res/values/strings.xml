@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+
+    <string name="title_top">Top fragment</string>
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Spaghetti</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Cambringe</item>
+        <item>Sebastopol</item>
+    </string-array>
+
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="store_tab">Stores</string>
+
+    <string name="company_name">Shit Pizza</string>
+    <string name="restaurant_image">Restaurant image</string>
+    <string name="home_text">
+        bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla
+    </string>
+
+    <string name="order_name_hint">Please enter you name</string>
+    <string name="order_details_hint">Please enter you order</string>
+
+</resources>
